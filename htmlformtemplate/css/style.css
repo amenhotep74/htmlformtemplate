@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  justify-content: center; }
+
+form {
+  border: 1px solid black;
+  width: 100%; }
+
+h1, h4, p, a {
+  text-align: center; }
+
+button {
+  margin-top: 85px;
+  font-size: 18px;
+  width: 100%;
+  margin-bottom: 15px;
+  align-items: center;
+  justify-content: center; }
+
+i {
+  text-align: center; }
+
+#inputs-group {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto; }
+
+#form-group {
+  width: 100%; }
+
+input {
+  width: 100%; }
+
+label {
+  display: block;
+  text-align: left;
+  padding-top: 5%;
+  margin: 0 auto; }
+
+.tooltip-inner {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000; }
+
+#terms-and-conditions {
+  margin-top: 15px; }
+
+/*# sourceMappingURL=style.css.map */
